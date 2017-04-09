@@ -17,6 +17,6 @@ Name them this:
 * 1 hour - 1hour.mp3
 * 10 hours - 10hours.mp3
 
-To convert, use a mp3 converting site. youtube2mp3.cc is what I still use.
+To convert, use a mp3 converting site. youtube2mp3.cc is what I still use. listentoyoutube.com seems to work best for the 10 hour long file.
 
 (happy april fools!)
